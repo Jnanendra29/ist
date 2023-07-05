@@ -1,27 +1,21 @@
-#IssueTracker
-A full stack app, which helps to track issues/bugs for the Project.
-Hoisted Link :https://soumyasri546-github-io-project.onrender.com
 
 
-### Description
+
+1 Description
 
 A full stack app, which helps to track issues/bugs for the Project.
 
 
-### Tech Stack
+ 2 Tech Stack
 
 Nodejs , Express, Mongodb , EJS , javaScript , html, css
 
-### How to setup the project on local system
 
-  1. Clone this project
-  2. Start by installing npm if you don't have it already.
-  3. Navigate to Project Directory by cd project Name
 
 After reaching the project directory you have to run the following the command.
    ```` 
-        npm install 
-        node index.js
+       1 npm install 
+       2 node index.js
    ```
 
 ### Features
